@@ -1,0 +1,12 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Example Expressjs application by Rascode",
+  "main": "server.js",
+  "repository": "git@github.com:rascode/express.git",
+  "author": "Rascode",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
