@@ -10,4 +10,4 @@ app.get('/', (req, res)=> {
 })
 
 //Start Express Server
-app.listen(process.env.PORT, () => console.log('Express 5 Server now listening on Port 3000'))
+app.listen(process.env.PORT, () => console.log('Express 5 Server now listening on Port ' + process.env.PORT))
