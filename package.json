@@ -2,7 +2,7 @@
   "name": "express",
   "version": "1.0.0",
   "description": "Example Expressjs application by Rascode",
-  "main": "server.js",
+  "main": "app.js",
   "repository": "git@github.com:rascode/express.git",
   "author": "Rascode",
   "license": "MIT",
