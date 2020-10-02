@@ -1,6 +1,5 @@
 //TODO: Define a template engine
 //TODO: Create a template
-//TODO: Another todo example
 
 require('dotenv').config()
 const express = require('express')
