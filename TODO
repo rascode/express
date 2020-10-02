@@ -4,14 +4,14 @@ Server:
   ☐ Create Github Repository
   ☐ Save project to github 
   
-  Gulp: 
-    ☐ Install gulp to local dependencies @today
-    ☐ Create gulp file @today @5m
-    ☐ Assign Gulp file a simple task @today @2m
-    ☐ Add the gulp start task to the package.json file @today @10min
+Gulp: 
+  ☐ Install gulp to local dependencies @today
+  ☐ Create gulp file @today @5m
+  ☐ Assign Gulp file a simple task @today @2m
+  ☐ Add the gulp start task to the package.json file @today @10min
     
-  CSS:
-    ☐ Minify CSS
+CSS:
+  ☐ Minify CSS
 
-  Nunjucks:
-    ☐ Install nunjucks packages
+Nunjucks:
+  ☐ Install nunjucks packages
