@@ -1,0 +1,10 @@
+{
+    "site":{
+        "name": "Rascode's Express Quickstart",
+        "url": {
+            "local": "http://localhost",
+            "dev": "http://somenetlifypath.com",
+            "stage": "http://someothersite.com"
+        }
+    }
+}
